@@ -30,6 +30,8 @@ namespace NameList
             // de applicatie opstart
 
             UpdateLabel();
+
+            // Dit is een test
         }
 
         private void btnVerwijder_Click(object sender, EventArgs e)
@@ -70,5 +72,7 @@ namespace NameList
         // tabindex
         // release/publish
 
+
+        // https://github.com/xwemmers
     }
 }
